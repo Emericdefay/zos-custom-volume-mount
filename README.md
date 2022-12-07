@@ -88,4 +88,7 @@ Et pour cela, c'est très simple:
 - Commencez par remettre en ligne votre volume : ```V ABCD,ONLINE```
 - Puis montez le : ```M ABCD,VOL=(SL,TOTO),USE=PRIVATE```
 
+<img src="./com/success.png">
+
+
 Et voilà! Vous avez votre nouveau volume rien que pour vous! Idéal pour vos backups!
